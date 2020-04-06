@@ -24,6 +24,8 @@ class App(QMainWindow):
         self.height = 250
         self.initUI()
         # 1600 900
+    
+    # djesi pasa
         
     def initUI(self):
         self.setWindowTitle(self.title)
